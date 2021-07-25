@@ -1,3 +1,41 @@
+# Lab05: Deploy and Extend Your Portfolio
+
+## Overview
+Get ready to take a look at a full-featured code base! You have just started a new job and the employer wants you to demonstrate your skills by building a portfolio using React. This should highlight your knowledge of the React library and your ability to explore a new codebase. The starter code for today contains a React + Bootstrap site with a number of example pages, complete with icons, styles, and themed layouts. Your job is to customize this code by following the specifications in the Trello board.
+
+You will be deploying your React portfolio to Netlify.
+
+## Author: Clarissa Pamonicutt
+
+## Contributors
+
+## Deployed Site (https://cp-301-portfolio.netlify.app/)
+
+## Number and name of feature
+
+Workflow
+We will be using the Trello project management tool for this lab.
+To maximize your experience with Trello, you should create a free Trello account by clicking on the Sign Up button.
+After creating an account, go to the Portfolio, open the “… Show Menu” link, click the “… More” link, and then click “Copy Board”. Before you create it, be sure to “Change” from Private to “Public” (and click “Yes, Make Board Public”) so your instructional team can see your work. Now, click “Create” to add a copy to your personal account.
+This Trello board contains all of the features required to complete this lab assignment.
+Review the user stories and analyze the feature requests and requirements in the lab.
+Within each story, note the the checklist of feature tasks. Be careful to execute tasks in order as they are often dependencies of one another.
+Throughout the lab time, check off tasks as you complete them, and move the story cards through the workflow.
+
+<br>
+
+Estimate of time needed to complete: 8 hours
+
+Start time: Afternoon 7/24
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+---
+
+---
+
 # [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
 
